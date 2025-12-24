@@ -1,0 +1,16 @@
+{
+  "league": "Süper Lig",
+  "matches": [
+    {
+      "home": "Galatasaray",
+      "away": "Fenerbahçe",
+      "datetime": "2025-12-25T20:00:00"
+    },
+    {
+      "home": "Trabzonspor",
+      "away": "Beşiktaş",
+      "datetime": "2025-12-26T19:00:00"
+    }
+  ]
+}
+

@@ -1,16 +1,225 @@
 {
   "league": "Süper Lig",
+  "updated": "2026-01-01",
   "matches": [
     {
-      "home": "Galatasaray",
-      "away": "Fenerbahçe",
-      "datetime": "2025-12-25T20:00:00"
+      "week": 17,
+      "date": "2025-12-19",
+      "time": "20:00",
+      "home": "Kocaelispor",
+      "away": "Antalyaspor",
+      "played": true,
+      "score": "2-1"
     },
     {
+      "week": 17,
+      "date": "2025-12-20",
+      "time": "14:30",
+      "home": "Konyaspor",
+      "away": "Kayserispor",
+      "played": true,
+      "score": "1-1"
+    },
+    {
+      "week": 17,
+      "date": "2025-12-20",
+      "time": "17:00",
+      "home": "Eyüpspor",
+      "away": "Fenerbahçe",
+      "played": true,
+      "score": "0-3"
+    },
+    {
+      "week": 17,
+      "date": "2025-12-20",
+      "time": "20:00",
+      "home": "Beşiktaş",
+      "away": "Çaykur Rizespor",
+      "played": true,
+      "score": "1-0"
+    },
+    {
+      "week": 17,
+      "date": "2025-12-21",
+      "time": "14:30",
+      "home": "Alanyaspor",
+      "away": "Fatih Karagümrük",
+      "played": true,
+      "score": "2-0"
+    },
+    {
+      "week": 17,
+      "date": "2025-12-21",
+      "time": "20:00",
+      "home": "Göztepe",
+      "away": "Samsunspor",
+      "played": true,
+      "score": "2-0"
+    },
+    {
+      "week": 17,
+      "date": "2025-12-22",
+      "time": "17:00",
+      "home": "Galatasaray",
+      "away": "Kasımpaşa",
+      "played": true,
+      "score": "3-0"
+    },
+    {
+      "week": 17,
+      "date": "2025-12-22",
+      "time": "20:00",
+      "home": "İstanbul Başakşehir",
+      "away": "Gaziantep FK",
+      "played": true,
+      "score": "5-1"
+    },
+    {
+      "week": 17,
+      "date": "2025-12-22",
+      "time": "20:00",
+      "home": "Gençlerbirliği",
+      "away": "Trabzonspor",
+      "played": true,
+      "score": "4-3"
+    },
+
+    {
+      "week": 18,
+      "date": "2026-01-17",
+      "time": "17:00",
+      "home": "İstanbul Başakşehir",
+      "away": "Fatih Karagümrük",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 18,
+      "date": "2026-01-17",
+      "time": "20:00",
+      "home": "Galatasaray",
+      "away": "Gaziantep FK",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 18,
+      "date": "2026-01-18",
+      "time": "14:30",
+      "home": "Kasımpaşa",
+      "away": "Antalyaspor",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 18,
+      "date": "2026-01-18",
+      "time": "17:00",
+      "home": "Kocaelispor",
+      "away": "Trabzonspor",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 18,
+      "date": "2026-01-18",
+      "time": "20:00",
+      "home": "Alanyaspor",
+      "away": "Fenerbahçe",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 18,
+      "date": "2026-01-19",
+      "time": "17:00",
+      "home": "Konyaspor",
+      "away": "Eyüpspor",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 18,
+      "date": "2026-01-19",
+      "time": "20:00",
+      "home": "Göztepe",
+      "away": "Çaykur Rizespor",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 18,
+      "date": "2026-01-19",
+      "time": "20:00",
+      "home": "Beşiktaş",
+      "away": "Kayserispor",
+      "played": false,
+      "score": ""
+    },
+
+    {
+      "week": 19,
+      "date": "2026-01-23",
+      "time": "20:00",
       "home": "Trabzonspor",
-      "away": "Beşiktaş",
-      "datetime": "2025-12-26T19:00:00"
+      "away": "Kasımpaşa",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 19,
+      "date": "2026-01-24",
+      "time": "14:30",
+      "home": "Kayserispor",
+      "away": "İstanbul Başakşehir",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 19,
+      "date": "2026-01-24",
+      "time": "17:00",
+      "home": "Samsunspor",
+      "away": "Kocaelispor",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 19,
+      "date": "2026-01-24",
+      "time": "20:00",
+      "home": "Fatih Karagümrük",
+      "away": "Galatasaray",
+      "played": false,
+      "score": ""
+    },
+
+    {
+      "week": 20,
+      "date": "2026-02-01",
+      "time": "20:00",
+      "home": "Alanyaspor",
+      "away": "Eyüpspor",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 20,
+      "date": "2026-02-01",
+      "time": "20:00",
+      "home": "Beşiktaş",
+      "away": "Konyaspor",
+      "played": false,
+      "score": ""
+    },
+    {
+      "week": 20,
+      "date": "2026-02-01",
+      "time": "20:00",
+      "home": "Galatasaray",
+      "away": "Kayserispor",
+      "played": false,
+      "score": ""
     }
   ]
 }
-
